@@ -1,0 +1,9 @@
+name: ShapeShifting
+main: me.endureblackout.ss.SSMain
+version: 1.0
+description: A ShapeShifting plugin.
+author: [EndureBlackout]
+depend: [LibsDisguises]
+commands:
+  wolf:
+    description: Main Command
